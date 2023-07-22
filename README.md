@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [@ArturdaSilvaRezende]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/html5-css3sass-vanilla-js-webpack-lEG5BZ0u6))
-- Live Site URL: [blogr-landing-page-main]([https://your-live-site-url.com](https://blogr-landing-artur-rezende.netlify.app/))
+- Solution URL: [@ArturdaSilvaRezende](https://www.frontendmentor.io/solutions/html5-css3sass-vanilla-js-webpack-lEG5BZ0u6)
+- Live Site URL: [blogr-landing-page-main](https://blogr-landing-artur-rezende.netlify.app/)
 
 ## My process
 
@@ -45,7 +45,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Personal Site]([[https://your-live-site-url.com](https://blogr-landing-artur-rezende.netlify.app/](https://artur-silva-rezende.netlify.app/)))
-- Frontend Mentor - [@ArturdaSilvaRezende]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/html5-css3sass-vanilla-js-webpack-lEG5BZ0u6))
-- LinkedIn - [Artur da Silva Rezende](([https://www.frontendmentor.io/solutions/html5-css3sass-vanilla-js-webpack-lEG5BZ0u6](https://artur-silva-rezende.netlify.app/)https://artur-silva-rezende.netlify.app/))
+- Website - [Personal Site](https://artur-silva-rezende.netlify.app/)
+- Frontend Mentor - [@ArturdaSilvaRezende](https://www.frontendmentor.io/solutions/html5-css3sass-vanilla-js-webpack-lEG5BZ0u6)
+- LinkedIn - [Artur da Silva Rezende](https://www.linkedin.com/in/artur-da-silva-rezende/)
 
